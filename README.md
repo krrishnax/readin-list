@@ -5,7 +5,7 @@
 - [ ] [Programming Rust: Fast, Safe Systems Development](http://bzz.wallizard.com:8081/share/books/RUST/Programming%20Rust%202nd%20Edition.pdf) 
 - [ ] [Designing Data-Intensive Applications](https://raw.githubusercontent.com/ms2ag16/Books/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
 - [ ] [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics/) (In-progress)
-- [ ] [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) (In-progrogress)
+- [ ] [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) (In-progress)
 - [x] [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 
